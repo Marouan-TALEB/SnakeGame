@@ -1,11 +1,11 @@
-# 🐍 Snake Game — Python Turtle Edition
+#  Snake Game — Python Turtle Edition
 
 A simple and fun **Snake Game** built with **Python's Turtle Graphics**.  
 Guide your snake to eat food, grow longer, and avoid collisions!
 
 ---
 
-## 🎮 How to Play
+##  How to Play
 1. Run `main.py`
 2. Use the **arrow keys** to control the snake:
    - ⬆️ Up  
@@ -17,7 +17,7 @@ Guide your snake to eat food, grow longer, and avoid collisions!
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 
 | File | Description |
 |------|--------------|
@@ -28,7 +28,7 @@ Guide your snake to eat food, grow longer, and avoid collisions!
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 - Python 3.x  
 - Turtle graphics module (comes pre-installed with Python)
 
